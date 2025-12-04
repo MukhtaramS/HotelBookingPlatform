@@ -19,11 +19,6 @@
   <img src="HotelWebsiteGif.gif" width="700" alt="Booking Platform Preview"/>
 </p>
 
-<p align="center">
-  <a href="YOUR_DEMO_URL">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge" height="40"/>
-  </a>
-</p>
 
 ---
 
