@@ -33,7 +33,6 @@ Unlike traditional booking methods that rely on phone calls or third-party platf
 - **Interactive room selection** to choose exactly what you want
 - **Multi-language support** (English & Russian) for diverse travelers
 
-> This project is part of an integrated hotel management ecosystem. For the administrative dashboard, see the [Hotel Management Dashboard](link-to-admin-repo) repository.
 
 ## ✨ Key Features
 
