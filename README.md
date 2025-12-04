@@ -211,12 +211,6 @@ The platform has undergone rigorous testing including:
 - **Responsive Testing** - Verified across multiple device sizes
 - **Performance Testing** - Optimized for fast load times
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-ì
-
 ---
 
 <p align="center">
