@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   A modern, user-friendly hotel booking platform designed to provide guests with 
-  <b>seamless room discovery, real-time availability, and secure online reservations</b>.
+  <b>seamless room discovery, real-time availability, and secure  reservations</b>.
 </p>
 
 ---
