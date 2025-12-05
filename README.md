@@ -24,7 +24,7 @@
 
 ## 📖 About
 
-This **Hotel Booking Platform** is the guest-facing interface of a comprehensive hotel management system, developed during my Bachelor at the University of Central Asia. The platform addresses the growing need for digital transformation in Kyrgyzstan's hospitality industry by providing travelers with an intuitive, efficient way to discover and book hotel accommodations.
+This **Hotel Booking Platform** is the guest-facing interface of a comprehensive hotel management system, developed during my Bachelor studies at the University of Central Asia. The platform addresses the growing need for digital transformation in Kyrgyzstan's hospitality industry by providing travelers with an intuitive, efficient way to discover and book hotel accommodations.
 
 Unlike traditional booking methods that rely on phone calls or third-party platforms, this system provides:
 - **Direct booking** with real-time room availability
