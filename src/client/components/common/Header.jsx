@@ -50,7 +50,7 @@ export const Header = () => {
                 <nav className="p-4 flex justify-between items-center relative">
                     <div className='flex items-center gap-14'>
                         <div>
-                            <img src={LogoImg} alt='LogoImg' className='h-7' />
+                            <img src={LogoImg} alt='LogoImg' className="h-24" />
                         </div>
                         <div className='hidden lg:flex items-center justify-between gap-8'>
                             {menulists.map((list) => (

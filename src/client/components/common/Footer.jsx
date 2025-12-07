@@ -7,7 +7,8 @@ export const Footer = () => {
             <footer className="py-14">
                 <div className="container grid-col-1 grid md:grid-cols-2 lg:grid-cols-4 gap-8">
                     <div>
-                        <img src={LogoImg} className='h-7' />
+                    <img src={LogoImg} className='h-10' />
+
                         <div className='flex flex-col gap-2 mt-5'>
                             <Caption>Address: Chiechieibaieva, 30a</Caption>
                             <Caption>Email: reservations@askahotel.com</Caption>
